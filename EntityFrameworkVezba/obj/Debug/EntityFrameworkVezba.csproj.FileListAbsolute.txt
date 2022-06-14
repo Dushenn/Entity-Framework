@@ -1,0 +1,12 @@
+K:\Dusan Srednja Skola\Visual Studio\OOP casovi\Vezbe\EntityFrameworkVezba\bin\Debug\EntityFrameworkVezba.exe.config
+K:\Dusan Srednja Skola\Visual Studio\OOP casovi\Vezbe\EntityFrameworkVezba\bin\Debug\EntityFrameworkVezba.exe
+K:\Dusan Srednja Skola\Visual Studio\OOP casovi\Vezbe\EntityFrameworkVezba\bin\Debug\EntityFrameworkVezba.pdb
+K:\Dusan Srednja Skola\Visual Studio\OOP casovi\Vezbe\EntityFrameworkVezba\bin\Debug\EntityFramework.dll
+K:\Dusan Srednja Skola\Visual Studio\OOP casovi\Vezbe\EntityFrameworkVezba\bin\Debug\EntityFramework.SqlServer.dll
+K:\Dusan Srednja Skola\Visual Studio\OOP casovi\Vezbe\EntityFrameworkVezba\bin\Debug\EntityFramework.xml
+K:\Dusan Srednja Skola\Visual Studio\OOP casovi\Vezbe\EntityFrameworkVezba\bin\Debug\EntityFramework.SqlServer.xml
+K:\Dusan Srednja Skola\Visual Studio\OOP casovi\Vezbe\EntityFrameworkVezba\obj\Debug\EntityFrameworkVezba.csproj.AssemblyReference.cache
+K:\Dusan Srednja Skola\Visual Studio\OOP casovi\Vezbe\EntityFrameworkVezba\obj\Debug\EntityFrameworkVezba.csproj.CoreCompileInputs.cache
+K:\Dusan Srednja Skola\Visual Studio\OOP casovi\Vezbe\EntityFrameworkVezba\obj\Debug\EntityFrameworkVezba.csproj.CopyComplete
+K:\Dusan Srednja Skola\Visual Studio\OOP casovi\Vezbe\EntityFrameworkVezba\obj\Debug\EntityFrameworkVezba.exe
+K:\Dusan Srednja Skola\Visual Studio\OOP casovi\Vezbe\EntityFrameworkVezba\obj\Debug\EntityFrameworkVezba.pdb
